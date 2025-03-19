@@ -28,7 +28,7 @@
    - [Security Groups and Permissions](https://github.com/gustygreen/Permissions.git)
 
 - <b>Software Deployment using Group Policy(GPO)</b>
-   - [File Sharing](https://github.com/gustygreen/Software-Deployment.git)
+   - [Software Deployment](https://github.com/gustygreen/Software-Deployment.git)
 
 <h2>Connect with me 📲:</h2>
 
